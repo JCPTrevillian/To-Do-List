@@ -35,4 +35,14 @@
 \
 \
 ![removing completed tasks](https://github.com/JCPTrevillian/To-Do-List/assets/95890754/50f10b9a-c8b3-4b3a-94a9-2bcceb90d50c)
+\
+\
+**CSS Linear Gradient 135 deg, 5a5 and 080 were too complementary which which made it subtle - too subtle to tell it was done so I changed it to 5a5 fff - you can now see the color gradient more clearly**
+\
+\
+![gradient](https://github.com/JCPTrevillian/To-Do-List/assets/95890754/7016eee9-f618-40d8-9016-0f4c404efd3f)
+\
+\
+![linear gradient](https://github.com/JCPTrevillian/To-Do-List/assets/95890754/eccf1123-ab15-48ee-9b69-b3d90b97d8e1)
+
 
