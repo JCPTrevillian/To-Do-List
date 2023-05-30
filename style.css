@@ -7,7 +7,7 @@
   .container{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg, #5a5a5a, #808080);
+    background: linear-gradient(135deg, #5a5a5a, #ffffff);
     padding: 10px;
   }
   .todo-app{
